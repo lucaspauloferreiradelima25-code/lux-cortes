@@ -5,7 +5,7 @@
 <img width="1904" height="987" alt="Captura de tela 2026-09-09 235931" src="https://github.com/user-attachments/assets/e015101a-1ff4-45d2-b98a-bbf04b31a0ea" />
 <img width="1883" height="933" alt="Captura de tela 2026-09-09 235913" src="https://github.com/user-attachments/assets/c3ade0bb-bf42-4505-a20e-8d6d18b2445c" />
 
-# 💈 Luks Cortes - Sistema de Gestão e Automação para Barbearias<img width="576" height="1280" alt="WhatsApp Image 2026-09-10 at 00 02 24" src="https://github.com/user-attachments/assets/662a5fc9-b10b-4547-a9f8-d86f823e6fbd" />
+# 💈 LuX Cortes - Sistema de Gestão e Automação para Barbearias<img width="576" height="1280" alt="WhatsApp Image 2026-09-10 at 00 02 24" src="https://github.com/user-attachments/assets/662a5fc9-b10b-4547-a9f8-d86f823e6fbd" />
 
 
 Plataforma full-stack desenvolvida para automatizar o fluxo de agendamentos e pagamentos de barbearias, eliminando processos manuais, otimizando o fluxo de caixa e integrando confirmações via WhatsApp em tempo real.
@@ -14,7 +14,7 @@ Plataforma full-stack desenvolvida para automatizar o fluxo de agendamentos e pa
 
 ## 🚀 Sobre o Projeto
 
-O **Luks Cortes** nasceu da necessidade de criar uma solução moderna, enxuta e totalmente automatizada para o gerenciamento de barbearias. O sistema resolve gargalos operacionais comuns do dia a dia por meio de arquitetura de microsserviços, banco de dados relacional e automações de ponta a ponta, servindo como um ecossistema funcional em produção para testes e validações de mercado.
+O **Lux Cortes** nasceu da necessidade de criar uma solução moderna, enxuta e totalmente automatizada para o gerenciamento de barbearias. O sistema resolve gargalos operacionais comuns do dia a dia por meio de arquitetura de microsserviços, banco de dados relacional e automações de ponta a ponta, servindo como um ecossistema funcional em produção para testes e validações de mercado.
 
 ---
 
